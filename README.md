@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-<img align="right" width="300px" alt="Unicorn" src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/banners/banner9.gif?raw=true" style="margin-left: 20px;" />
+<img align="right" width="250px" alt="Unicorn" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif?raw=true" style="margin-left: 20px;" />
 
 <p><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<b>About me</b></p>
 
@@ -34,12 +34,24 @@
 <a href= https://github.com/BrandonJulio?tab=repositories&q=&type=&language=html&sort= > <img width ='92px' src ='https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white'> </a>&nbsp;
 <a href= https://github.com/BrandonJulio?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/51f83dfc2091cdec25b7b33bd2d3da0996ec3efd/icons/typescript.svg'> </a>
 
+## 📈 Github Profile Stats
+
+<p align="center">
+    <a href="https://github.com/BrandonJulio">
+        <img height="180em" src="https://streak-stats.demolab.com?user=BrandonJulio&theme=tokyonight&hide_border=true&border_radius="/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrandonJulio&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonJulio&hide_border=true&layout=compact&theme=tokyonight&hide=jupyter%20notebook"/>
+    </a>
+</p>
+</div>
+
 <h2> Check out my social Media <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGg5eDd2NDZkd3hhanl3ZjF3NzV0a2ljY3l3N3ZvZmdvYXk4b3g2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XyJPNKBskIDWR3Md8K/giphy.webp" width = 32px> </h2>
 
 <a href ="https://www.instagram.com/brandonjanel_/">
  <img width ='35px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/51f83dfc2091cdec25b7b33bd2d3da0996ec3efd/icons/instagram.svg'> </a>&nbsp;
-</a>
+</a> &nbsp;
 
 <a href ="https://www.linkedin.com/in/brandon-julio-18b665313/">
  <img src ='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'> </a>&nbsp;
 </a>
+
