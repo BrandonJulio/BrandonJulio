@@ -18,6 +18,7 @@
 * **I am interested in Web designing**
   - JavaScript
   - React js
+  - Angular
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - 💻 Outside of technology, 🏋️‍♀️ I love going to the gym, 🎵 listening to music and 🌴 exploring nature outdoors.
