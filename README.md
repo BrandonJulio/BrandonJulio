@@ -52,7 +52,7 @@
  <img width ='35px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/51f83dfc2091cdec25b7b33bd2d3da0996ec3efd/icons/instagram.svg'> </a>&nbsp;
 </a> &nbsp;
 
-<a href ="https://www.linkedin.com/in/brandon-julio-18b665313/">
+<a href ="https://www.linkedin.com/in/brando-janel-julio-gonzalez-5b8ba5243/">
  <img src ='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'> </a>&nbsp;
 </a>
 
