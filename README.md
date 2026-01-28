@@ -23,6 +23,7 @@
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - 💻 Outside of technology, 🏋️‍♀️ I love going to the gym, 🎵 listening to music and 🌴 exploring nature outdoors.
 - 📫 Reach out to me at: <a href="brandonjulio1997@gmail.com">brandonjulio1997@gmail.com</a>
+- ⌨️ enterprise github: <a href="https://github.com/brjulioims">brjulioims</a>
   
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/BrandonJulio?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>&nbsp;
